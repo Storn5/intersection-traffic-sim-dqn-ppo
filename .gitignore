@@ -1,0 +1,5 @@
+logs/
+logs_lights/
+models_lights/
+models/
+__pycache__/
